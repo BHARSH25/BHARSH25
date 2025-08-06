@@ -1,6 +1,6 @@
  👋 Hi, I’m @BHARSH25
 - 👀 I’m interested in Coding and Tech
-- 🌱 I’m currently learning BSC Computer Science
+- 🌱 I’m currently learning Bachelor Of Engineering (Artificial Intelligence And Data Science)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him

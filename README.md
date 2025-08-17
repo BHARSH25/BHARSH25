@@ -1,4 +1,4 @@
- 👋 Hi, I’m @BHARSH25
+ 👋 Hi, I’m Harsh
 - 👀 I’m interested in Coding and Tech
 - 🌱 I’m currently learning Bachelor Of Engineering (Artificial Intelligence And Data Science)
 - 💞️ I’m looking to collaborate on ...
